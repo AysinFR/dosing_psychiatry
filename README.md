@@ -11,9 +11,7 @@
 - QR-код для сканирования ссылки на приложения смартфоном.
 - скриншот для напоминания о разных версиях инструкций в виде электронных образов.
 
-
-
-
+Ссылка: http://aysinfr.shinyapps.io/demo_dosing_app_098123
 
 ////////////////////////////////////////////////////////////////////////////////////
 ## ENG
@@ -27,3 +25,5 @@ It is used to create an interface that allows physicians to easily select doses 
 3. Pictures:
 - QR code to scan links to application using smartphone.
 - Screenshot to remind you of different versions of instructions in the form of electronic images.
+
+Link: http://aysinfr.shinyapps.io/demo_dosing_app_098123
