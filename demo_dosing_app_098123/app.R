@@ -4,6 +4,7 @@ library(data.table)
 library(rsconnect)
 
 #///////////////////////////////////////////////////////////////////////////SIDEBAR/////////////////////////////////////////////////////////////////
+
 sidebar <- dashboardSidebar(
     tags$head(tags$script(type="text/javascript",'$(document).ready(function(){
                              $(".main-sidebar").css("height","100%");
